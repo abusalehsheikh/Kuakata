@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Kuakata &#8211; কুয়াকাটা	</title>
+	Comments on: কুয়াকাটা সম্পর্কে কিছু তথ্য	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description>সাগরকন্যা কুয়াকাটা</description>
 	<lastBuildDate>Sun, 05 May 2019 15:23:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,8 +19,8 @@
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 			<item>
 				<title>
-				Comment on কুয়াকাটা সম্পর্কে কিছু তথ্য by Raktim				</title>
-				<link>./../../blog/information-about-kuakata/index.html#comment-13</link>
+				By: Raktim				</title>
+				<link>./../index.html#comment-13</link>
 		<dc:creator><![CDATA[Raktim]]></dc:creator>
 		<pubDate>Sun, 05 May 2019 14:33:03 +0000</pubDate>
 		<guid isPermaLink="false">https://kuakata.cf/?p=352#comment-13</guid>
@@ -30,8 +30,8 @@
 						</item>
 						<item>
 				<title>
-				Comment on কুয়াকাটা সম্পর্কে কিছু তথ্য by Nayem				</title>
-				<link>./../../blog/information-about-kuakata/index.html#comment-2</link>
+				By: Nayem				</title>
+				<link>./../index.html#comment-2</link>
 		<dc:creator><![CDATA[Nayem]]></dc:creator>
 		<pubDate>Thu, 28 Mar 2019 12:37:37 +0000</pubDate>
 		<guid isPermaLink="false">https://kuakata.cf/?p=352#comment-2</guid>

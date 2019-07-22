@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kuakata &#8211; কুয়াকাটা</title>
-	<atom:link href="https://kuakata.cf/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kuakata.cf/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>সাগরকন্যা কুয়াকাটা</description>
 	<lastBuildDate>Sun, 05 May 2019 15:59:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 
 <image>
-	<url>https://kuakata.cf/wp-content/uploads/2019/03/cropped-kuakata-fav-1.2-512-32x32.png</url>
+	<url>./../wp-content/uploads/2019/03/cropped-kuakata-fav-1.2-512-32x32.png</url>
 	<title>Kuakata &#8211; কুয়াকাটা</title>
-	<link>https://kuakata.cf/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>সাগর আর বনের সংমিশ্রণে অনন্য ‘কুয়াকাটা’</title>
-		<link>https://kuakata.cf/blog/%e0%a6%b8%e0%a6%be%e0%a6%97%e0%a6%b0-%e0%a6%86%e0%a6%b0-%e0%a6%ac%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%82%e0%a6%ae%e0%a6%bf%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%85%e0%a6%a8/</link>
-				<comments>https://kuakata.cf/blog/%e0%a6%b8%e0%a6%be%e0%a6%97%e0%a6%b0-%e0%a6%86%e0%a6%b0-%e0%a6%ac%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%82%e0%a6%ae%e0%a6%bf%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%85%e0%a6%a8/#respond</comments>
+		<link>./../blog/%e0%a6%b8%e0%a6%be%e0%a6%97%e0%a6%b0-%e0%a6%86%e0%a6%b0-%e0%a6%ac%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%82%e0%a6%ae%e0%a6%bf%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%85%e0%a6%a8/index.html</link>
+				<comments>./../blog/%e0%a6%b8%e0%a6%be%e0%a6%97%e0%a6%b0-%e0%a6%86%e0%a6%b0-%e0%a6%ac%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%82%e0%a6%ae%e0%a6%bf%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%85%e0%a6%a8/index.html#respond</comments>
 				<pubDate>Sun, 05 May 2019 15:27:31 +0000</pubDate>
 		<dc:creator><![CDATA[আবু সালেহ শেখ]]></dc:creator>
 				<category><![CDATA[কুয়াকাটা]]></category>
@@ -228,13 +228,13 @@
 				
 			</div> <!-- .et_pb_section -->
 ]]></content:encoded>
-							<wfw:commentRss>https://kuakata.cf/blog/%e0%a6%b8%e0%a6%be%e0%a6%97%e0%a6%b0-%e0%a6%86%e0%a6%b0-%e0%a6%ac%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%82%e0%a6%ae%e0%a6%bf%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%85%e0%a6%a8/feed/</wfw:commentRss>
+							<wfw:commentRss>./../blog/%e0%a6%b8%e0%a6%be%e0%a6%97%e0%a6%b0-%e0%a6%86%e0%a6%b0-%e0%a6%ac%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%82%e0%a6%ae%e0%a6%bf%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%85%e0%a6%a8/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>কুয়াকাটা সম্পর্কে কিছু তথ্য</title>
-		<link>https://kuakata.cf/blog/information-about-kuakata/</link>
-				<comments>https://kuakata.cf/blog/information-about-kuakata/#comments</comments>
+		<link>./../blog/information-about-kuakata/index.html</link>
+				<comments>./../blog/information-about-kuakata/index.html#comments</comments>
 				<pubDate>Thu, 28 Mar 2019 09:26:10 +0000</pubDate>
 		<dc:creator><![CDATA[আবু সালেহ শেখ]]></dc:creator>
 				<category><![CDATA[কুয়াকাটা]]></category>
@@ -297,13 +297,13 @@
 				
 			</div> <!-- .et_pb_section -->
 ]]></content:encoded>
-							<wfw:commentRss>https://kuakata.cf/blog/information-about-kuakata/feed/</wfw:commentRss>
+							<wfw:commentRss>./../blog/information-about-kuakata/feed/index.html</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 							</item>
 		<item>
 		<title>কুয়াকাটায় &#8216;ইত্যাদি&#8217;</title>
-		<link>https://kuakata.cf/blog/%e0%a6%95%e0%a7%81%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%87%e0%a6%a4%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a6%e0%a6%bf/</link>
-				<comments>https://kuakata.cf/blog/%e0%a6%95%e0%a7%81%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%87%e0%a6%a4%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a6%e0%a6%bf/#respond</comments>
+		<link>./../blog/%e0%a6%95%e0%a7%81%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%87%e0%a6%a4%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a6%e0%a6%bf/index.html</link>
+				<comments>./../blog/%e0%a6%95%e0%a7%81%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%87%e0%a6%a4%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a6%e0%a6%bf/index.html#respond</comments>
 				<pubDate>Thu, 14 Mar 2019 19:54:06 +0000</pubDate>
 		<dc:creator><![CDATA[আবু সালেহ শেখ]]></dc:creator>
 				<category><![CDATA[ইত্যাদি]]></category>
@@ -372,7 +372,7 @@
 				
 			</div> <!-- .et_pb_section --></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://kuakata.cf/blog/%e0%a6%95%e0%a7%81%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%87%e0%a6%a4%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a6%e0%a6%bf/feed/</wfw:commentRss>
+							<wfw:commentRss>./../blog/%e0%a6%95%e0%a7%81%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%87%e0%a6%a4%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a6%e0%a6%bf/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
